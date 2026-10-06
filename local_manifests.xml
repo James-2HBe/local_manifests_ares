@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="James-2HBe" fetch="https://github.com/James-2HBe" clone-depth="1" />
+
+    <!-- Removals -->
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="device/xiaomi/ares" name="device_xiaomi_ares" remote="James-2HBe" revision="lineage-22.2" />
+
+    <!-- Device - Common -->
+
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/ares" name="kernel_mt6893" remote="James-2HBe" revision="chopin_kvm" />
+
+    <!-- Vendor -->
+    <project path="vendor/xiaomi/ares" name="vendor_xiaomi_ares" remote="James-2HBe" revision="lineage-22.2" />
+
+    <!-- Vendor - Common -->
+
+    <!-- Hardware -->
+    <project path="hardware/mediatek/xiaomi" name="hardware_xiaomi" remote="James-2HBe" revision="lineage-22.2" />
+
+</manifest>
